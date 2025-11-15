@@ -1,24 +1,24 @@
-# <div align='center'>Baileys - Typescript/Javascript WhatsApp Web API</div>
+# <div align='center'>Baileys Pro - Professional WhatsApp Web API by ZQ Developers</div>
 
 <div align="center">
 
-<img src="https://wy0xihlhnevw1toh.public.blob.vercel-storage.com/images/ueug_ItsukichanBot-kSBgWKyatxf68Vxl3DMdr14VhAv7tR.png" alt="Header Image" width="100%"/>
+<img src="https://via.placeholder.com/800x200/1a1a1a/00ff88?text=ZQ+DEVELOPERS+%7C+BAILEYS+PRO" alt="ZQ Developers - Baileys Pro" width="100%"/>
 
 <br/>
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/npm/dw/%40itsukichan%2Fbaileys?label=npm&color=%23CB3837" alt="NPM Downloads"/>
-  <img src="https://img.shields.io/github/v/release/itsukichann/baileys?include_prereleases&sort=semver" alt="Latest Release"/>
-  <img src="https://img.shields.io/github/languages/code-size/itsukichann/baileys" alt="Code Size"/>
-  <img src="https://img.shields.io/github/license/itsukichann/baileys" alt="License"/>
-  <img src="https://img.shields.io/github/stars/itsukichann/baileys" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/itsukichann/baileys" alt="Forks"/>
+  <img src="https://img.shields.io/npm/dw/%40zqdevelopers%2Fbaileys-pro?label=npm&color=%23CB3837" alt="NPM Downloads"/>
+  <img src="https://img.shields.io/github/v/release/zqdevelopers/baileys-pro?include_prereleases&sort=semver" alt="Latest Release"/>
+  <img src="https://img.shields.io/github/languages/code-size/zqdevelopers/baileys-pro" alt="Code Size"/>
+  <img src="https://img.shields.io/github/license/zqdevelopers/baileys-pro" alt="License"/>
+  <img src="https://img.shields.io/github/stars/zqdevelopers/baileys-pro" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/zqdevelopers/baileys-pro" alt="Forks"/>
 </p>
 
 <!-- GitHub Stats -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsukichann&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zqdevelopers&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 </div>
@@ -38,8 +38,16 @@ The maintainers of Baileys do not in any way condone the use of this application
 - Thank you to [@pokearaujo](https://github.com/pokearaujo/multidevice) for writing his observations on the workings of WhatsApp Multi-Device. Also, thank you to [@Sigalor](https://github.com/sigalor/whatsapp-web-reveng) for writing his observations on the workings of WhatsApp Web and thanks to [@Rhymen](https://github.com/Rhymen/go-whatsapp/) for the __go__ implementation.
 
 > [!IMPORTANT]
-> The original repository had to be removed by the original author - we now continue development in this repository here.
-This is the only official repository and is maintained by the community.
+> **Enhanced by ZQ Developers** - This is a professional fork with additional features and optimizations.
+> 
+> **🚀 ZQ Developers Enhancements:**
+> - Enhanced error handling and logging
+> - Improved performance optimizations
+> - Professional code structure and documentation
+> - Regular updates and maintenance
+> - Enterprise-ready features
+>
+> **Original Credits:** Based on the community-maintained Baileys library.
 > **Join the Discord [here] (https://discord.gg/nqssuNjjSH)**
  
 ## Example
@@ -55,17 +63,17 @@ To run the example script, download or clone the repo and then type the followin
 
 Use the stable version:
 ```
-yarn add @itsukichan/baileys
+yarn add @zqdevelopers/baileys-pro
 ```
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:Itsukichann/Baileys
+yarn add github:zqdevelopers/baileys-pro
 ```
 
 Then import your code using:
 ```ts 
-import makeWASocket from '@itsukichan/baileys'
+import makeWASocket from '@zqdevelopers/baileys-pro'
 ```
 
 # Links
